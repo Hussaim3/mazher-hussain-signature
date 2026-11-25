@@ -4,12 +4,12 @@ Mazher Hussain - Live Email Signature Suite (GitHub Pages Ready)
 Step 1: Upload to GitHub (Hussaim3/email-signature)
 1. Extract this ZIP.
 2. Upload index.html, 01-05 HTML files, and the "signature" folder to the root of Hussaim3/email-signature and click Commit changes.
-3. Wait 60 seconds, then open: https://hussaim3.github.io/email-signature/
+3. Wait 60 seconds, then open: https://hussaim3.github.io/mazher-hussain-signature/
 
 Step 2: Copy & Paste into Outlook or Gmail
-1. On https://hussaim3.github.io/email-signature/, click "Copy Template" on Style 1 (or any of the 5 styles).
+1. On https://hussaim3.github.io/mazher-hussain-signature/, click "Copy Template" on Style 1 (or any of the 5 styles).
 2. Paste (Ctrl+V) into:
    - Outlook Web: Settings -> Mail -> Compose and reply -> Email signature -> Save
    - Gmail: Settings -> See all settings -> General -> Signature -> Save Changes
 
-All images load live over HTTPS from https://hussaim3.github.io/email-signature/signature/ with zero attachments and zero missing icons.
+All images load live over HTTPS from https://hussaim3.github.io/mazher-hussain-signature/signature/ with zero attachments and zero missing icons.
